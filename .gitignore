@@ -218,3 +218,18 @@ __marimo__/
 .streamlit/secrets.toml
 
 coverage/
+
+# Android build artifacts
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/**/*.apk
+android/**/*.aab
+android/**/*.ap_
+android/**/*.dex
+android/captures/
+android/.idea/
+android/**/.DS_Store
+# Gradle wrapper binary (tracked via properties file only)
+android/gradle/wrapper/gradle-wrapper.jar

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HydroApp</string>
+    <string name="btn_compute_contours">Compute Lowering Contours</string>
+    <string name="btn_dismiss">Dismiss</string>
+    <string name="btn_open_settings">Open Settings</string>
+    <string name="dialog_gps_disabled_title">Location Disabled</string>
+    <string name="dialog_gps_disabled_body">GPS or network location is disabled. Please enable location services in Settings to use the groundwater model.</string>
+    <string name="label_gps_status">GPS status</string>
+    <string name="label_hydro_records">Hydro records</string>
+    <string name="label_nearest_record">Nearest record</string>
+</resources>
